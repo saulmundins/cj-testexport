@@ -1,1 +1,0 @@
-self.__SSG_MANIFEST=new Set(["\u002F","\u002F404","\u002F[slug_category]","\u002F[slug_category]\u002F[slug_game]","\u002Fcategorias","\u002Fjogos\u002Fdestaques\u002Fembed-portal-bxk"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()
